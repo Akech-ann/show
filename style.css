@@ -1,0 +1,128 @@
+
+*{
+    list-style: none;
+    gap: 8em;
+
+}
+
+
+.nav ul{
+    display: flex;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+
+}
+.shoppy{
+    color: white;
+    padding: 18px;
+    background-color: purple;
+    border-radius: 20px;
+  
+}
+.offer{
+    font-size: 50px;
+    margin-top: 10%;
+}
+.img1{
+    float: right;
+    width: 40%;
+}
+.styl{
+    font-family: sans-serif;
+}
+.clo1{
+    width:230%;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+.clo2{
+    width: 60%;
+    margin-left: 16%;
+}
+
+.flex{
+    display: flex;
+}
+.cloth2{
+    text-align: center;
+    margin-left: 10%;
+}
+.words{
+    margin-left: 60%;
+    font-weight: bold;
+}
+.word2{
+    font-weight: bold;   
+}
+.shopping{
+    color: blue;
+}
+.img{
+    font-weight: bold;
+}
+
+.mod{
+    display: flex;
+    
+}
+.x{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: purple;
+    font-size: 24px;
+    margin-top: 10%;
+}
+.y{
+    font-weight: bold;
+    font-family: sans-serif;
+    color:purple; 
+    font-size: 24px;
+    margin-top: 10%;  
+}
+.z{
+    width: 130%;
+    margin-top: 10%;
+}
+.wordy{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 40%;
+   
+}
+.btn{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.buy1{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.buy2{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.flex{
+    background-color: lightgrey;
+}
+.kenya{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.anny{
+    width: 20%;
+    margin-left: 20%;
+}
+.footer{
+    display: flex;
+    margin-top: 10%;
+    gap: 20em;
+    background-color: lightgrey;
+    font-size: 18px;
+    line-height: 50px;
+   
+}
